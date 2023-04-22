@@ -27,8 +27,11 @@
     <artifactId>spring-boot-devtools</artifactId>
     <version>3.0.5</version>
 </dependency>
+
 --------
+
 ### **packages and class**
+
 ---------
 - model 
   - HitCountResponse 
@@ -90,6 +93,7 @@
 This project is designed to create a simple Spring Boot application that counts the number of hits to a URL endpoint and returns the count in a JSON response. The application consists of a UrlHitController class that defines the endpoint and a UrlHitService class that keeps track of the hit count.
 
 The application can be useful for tracking the number of hits to a particular URL and for monitoring the usage of a web application. It can be easily customized to track hits to multiple endpoints and to store the hit count in a database for more persistent storage.
+*****
 
 ### **Show your Support** 
 ****
