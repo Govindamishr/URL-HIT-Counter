@@ -27,9 +27,7 @@
     <artifactId>spring-boot-devtools</artifactId>
     <version>3.0.5</version>
 </dependency>
-
-
-
+--------
 ### **packages and class**
 ----
 - model 
@@ -40,6 +38,8 @@
 
 - service
    - HitCountResponse
+ 
+-------------
 ### **usages**
 ---------
 - **model**
