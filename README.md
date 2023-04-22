@@ -29,7 +29,7 @@
 </dependency>
 --------
 ### **packages and class**
-----
+---------
 - model 
   - HitCountResponse 
 
@@ -82,6 +82,8 @@
 -----
 
  core java
+ 
+ --------
 
   :point_down: **Summary**
 *****
