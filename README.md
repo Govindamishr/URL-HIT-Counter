@@ -41,6 +41,7 @@
 - service
    - HitCountResponse
 ### **usages**
+---------
 - **model**
   - created  model package inside model package i created  HitCountResponse class  inside  HitCountResponse class initialized   field    like userName,hitcount.
 
@@ -63,6 +64,8 @@
   - Inside the handler method, the urlHitService.getHitCount() method is called to retrieve the current hit count value from a data store.
   - The hit count value is then used to create a new HitCountResponse object with the specified URL and hit count value.
   - Finally, the ResponseEntity.ok() method is used to create an HTTP response with the HitCountResponse object as the response body. This response is then returned to the client making the request.
+
+----------
 
 ### **Run tests**
 
