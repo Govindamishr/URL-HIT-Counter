@@ -1,4 +1,4 @@
-:apple:    <font color='Blue'>URL HIT COUNTER </font>
+:home:    <font color='Blue'>URL HIT COUNTER </font>
 
 ### ***Framework***
 ---------
