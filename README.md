@@ -1,4 +1,4 @@
-:home:    <font color='Blue'>URL HIT COUNTER </font>
+🏡   <font color='Blue'>URL HIT COUNTER </font>
 
 ### ***Framework***
 ---------
