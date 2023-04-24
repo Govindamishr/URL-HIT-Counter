@@ -40,7 +40,7 @@
    - UrlHitController
 
 - service
-   - HitCountResponse
+   - UrlHitService
  
 -------------
 ### **usages**
@@ -56,7 +56,7 @@
 
    - Spring boot service component is defined as a class file that includes the @Service annotation and allows developers to add business functionalities. The annotation is used with the classes that provide these business functionalities.
 
-   - after created  service package inside service package i created HitCountResponse class  than, i was created private variable simply i created method that name is hitCount post increament that variable.
+   - after created  service package inside service package i created UrlHitService class  than, i was created private variable simply i created method that name is hitCount post increament that variable.
 
 - **controller**
 
